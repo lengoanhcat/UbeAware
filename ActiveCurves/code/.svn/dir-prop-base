@@ -1,0 +1,10 @@
+K 17
+svn:global-ignore
+V 7
+*.mex64
+K 10
+svn:ignore
+V 8
+*.mex64
+
+END

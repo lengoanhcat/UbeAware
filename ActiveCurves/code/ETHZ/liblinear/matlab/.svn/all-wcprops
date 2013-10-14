@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/matlab
+END
+run.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/matlab/run.m
+END
+linear_model_matlab.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/matlab/linear_model_matlab.h
+END
+libsvmwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/matlab/libsvmwrite.c
+END
+make.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/matlab/make.m
+END
+libsvmread.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/matlab/libsvmread.c
+END
+lrpredict.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/matlab/lrpredict.c
+END
+libsvmwrite.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/matlab/libsvmwrite.mexa64
+END
+libsvmread.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/matlab/libsvmread.mexa64
+END
+linear_model_matlab.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/matlab/linear_model_matlab.c
+END
+lrtrain.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/matlab/lrtrain.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/matlab/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/matlab/README
+END
+lrtrain.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/matlab/lrtrain.mexa64
+END

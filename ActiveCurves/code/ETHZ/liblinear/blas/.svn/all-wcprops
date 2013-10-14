@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/blas
+END
+blas.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/blas/blas.h
+END
+blasp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/blas/blasp.h
+END
+dscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/blas/dscal.c
+END
+ddot.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/blas/ddot.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/blas/Makefile
+END
+dnrm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/blas/dnrm2.c
+END
+daxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Postdoc_Research/!svn/ver/7/Tools/ActiveCurves/code/ETHZ/liblinear/blas/daxpy.c
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Postdoc_Research/!svn/ver/25/Tools/ActiveCurves/code/adaBoost
+END
+adaboost.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/adaboost.m
+END
+adaBoost_AB.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Postdoc_Research/!svn/ver/25/Tools/ActiveCurves/code/adaBoost/adaBoost_AB.m
+END
+vis_AB_template.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/vis_AB_template.m
+END
+gaborfilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/gaborfilter.m
+END
+randSplit.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/randSplit.m
+END
+applyfilterfftsame.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/applyfilterfftsame.m
+END
+adaBoost_ARC_CN.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Postdoc_Research/!svn/ver/25/Tools/ActiveCurves/code/adaBoost/adaBoost_ARC_CN.m
+END
+CMax1Single.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/CMax1Single.c
+END
+CMax2Single.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/CMax2Single.c
+END
+default_param.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/default_param.m
+END
+vis_corner_template.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/vis_corner_template.m
+END
+corr.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/corr.m
+END
+ClocalNormalizeSingle.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/ClocalNormalizeSingle.c
+END
+computeFeatureMaps.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/computeFeatureMaps.m
+END
+shiftS2Index.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/shiftS2Index.m
+END
+computeM2.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/computeM2.m
+END
+gray2rgb.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/gray2rgb.m
+END
+adaBoost_ARC.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Postdoc_Research/!svn/ver/25/Tools/ActiveCurves/code/adaBoost/adaBoost_ARC.m
+END
+CSum2Single.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/CSum2Single.c
+END
+drawAUCComparison.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/drawAUCComparison.m
+END
+vis_arc_template.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/vis_arc_template.m
+END
+computeS3.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/computeS3.m
+END
+WeightedThresholdClassifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/WeightedThresholdClassifier.m
+END
+makefilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/makefilter.m
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Postdoc_Research/!svn/ver/25/Tools/ActiveCurves/code/adaBoost/main.m
+END
+CBackM1andInhibition.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/CBackM1andInhibition.c
+END
+calc_auc.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Postdoc_Research/!svn/ver/23/Tools/ActiveCurves/code/adaBoost/calc_auc.m
+END

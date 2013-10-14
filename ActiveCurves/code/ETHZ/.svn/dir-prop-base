@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 36
+*.mexa64
+*.mexglx
+*.mexw64
+*.mexw32
+
+END
